@@ -12,6 +12,8 @@ We're not just building another programming language.
 
 **We're building the foundation for what comes next.**
 
+[Read: The Qorpra Myth](https://qorpra.com/myth/)
+
 ---
 
 ## The Qorpra Ecosystem
