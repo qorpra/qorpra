@@ -42,7 +42,7 @@ Its architecture is built around:
 
 QG is designed not only for Qorpix, but as a foundation for defining other languages and domain-specific programming models.
 
-### [Qorpix Bootstrap](https://github.com/qorpra/qorpix-bootstrap) — The Foundation
+### [Qorpix Bootstrap (QB / `.qb`)](https://github.com/qorpra/qorpix-bootstrap) — The Foundation
 
 **Every great system starts somewhere. Ours starts close to the machine.**
 
